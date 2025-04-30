@@ -20,7 +20,7 @@ To use the bash script, first download the file `installGame.sh`. Run `chmod 755
 
 The script will automatically open Steam, and then close it after the game files are done downloading. It can take anywhere from several seconds to several minutes depending on your connection. It will then automatically download OpenJKDF2 and extract it to the Steam game directory. 
 
-Once the script has finished running, the game will be playable in a mostly-vanilla state.
+Once the script has finished running, the game will be playable in a mostly-vanilla state. The first time you launch the game, you may receive a System Warning, instead of the game launching. To bypass, you will need to open Macbook Settings and navigate to Privacy and Security, where you can select an option to allow the app to run.
 
 # Installing the game manually
 ## Step 1: download the game files from Steam
